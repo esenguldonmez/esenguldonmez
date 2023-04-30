@@ -12,7 +12,7 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esenguldonmez1/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esenguldonmez&show_icons=true&theme=tokyonight)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esenguldonmez&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
