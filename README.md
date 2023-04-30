@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Esengül👋
+
+<div id="header" align="center">
+  <img src="https://lottie.host/d2fd27b8-bad1-491b-b326-bd79ac9dfa93/XZDFXtusgi.json" width="150"/>
+</div>
 
 - 🔭 I’m currently working on .NET MVC projects.
 - 🌱 I’m currently learning C#, JavaScript, JQuery, .NET.
