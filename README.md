@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esenguldonmez1/)
 
-[![HitCount](http://hits.dwyl.io/esenguldonmez/badges.svg)](http://hits.dwyl.io/esenguldonmez/badges)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=esenguldonmez&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=esenguldonmez&show_icons=true&theme=radical)
 
 
 
