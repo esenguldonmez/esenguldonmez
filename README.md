@@ -1,5 +1,6 @@
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=esenguldonmez&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=esenguldonmez&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### Hi, I'm Esengül👋
