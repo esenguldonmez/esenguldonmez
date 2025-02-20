@@ -1,8 +1,4 @@
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=esenguldonmez&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ### Hi, I'm Esengül👋
 
 - 🔭 I’m currently working on .NET MVC projects.
