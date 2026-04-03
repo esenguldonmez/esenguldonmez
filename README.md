@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on .NET MVC projects.
 - 🌱 I’m currently learning Swift.
 - 📫 How to reach me: esenguldonmez1@gmail.com
-<div id="header" align="">
-  <img src="https://i.hizliresim.com/nzt77jh.gif" width="150"/>
-</div>
 
 ### 📩 Connect with me:
 
