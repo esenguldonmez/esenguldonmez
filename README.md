@@ -1,7 +1,7 @@
 
 ### Hi, I'm Esengül👋
 
-- 🔭 I’m currently working on .NET MVC projects.
+- 🔭 I’m currently working on .NET MVC projects and building RESTful APIs.
 - 📫 How to reach me: esenguldonmez1@gmail.com
 
 ### 📩 Connect with me:
